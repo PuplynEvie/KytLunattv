@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KytLunattv
-- 👀 I’m interested in music, =aming, YouTube and Software & Games Development
+- 👋 Hi, I’m Evie
+- 👀 I’m interested in music, gaming, YouTube and Software & Games Development
 - 🌱 I’m currently learning Minecraft mod development
 - 📫 How to reach me - kytluna.c@gmail.com
 - 😄 Pronouns: she/her
